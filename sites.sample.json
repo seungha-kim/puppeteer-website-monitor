@@ -1,0 +1,12 @@
+[
+  {
+    "name": "site name",
+    "target": "target page url",
+    "selector": "CSS selector of an element expected to appear"
+  },
+  {
+    "name": "site name",
+    "target": "target page url",
+    "selector": "CSS selector of an element expected to appear"
+  }
+]

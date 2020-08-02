@@ -1,0 +1,4 @@
+cron:
+- description: "check sites"
+  url: /checkSites
+  schedule: every 1 hours
